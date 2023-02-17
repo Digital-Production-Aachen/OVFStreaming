@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use the OVF Service Defintion, please cite it as below."
+authors:
+- family-names: "Kolter"
+  given-names: "Moritz"
+  orcid: "https://orcid.org/0000-0002-8908-3564"
+- family-names: "Dirks"
+  given-names: "Sebastian"
+  orcid: "https://orcid.org/0000-0003-4987-4983"
+title: "Streaming Service Definition for Open Vector Format Objects"
+version: 1.0
+doi: 10.18154/RWTH-2023-01469
+date-released: 2023-01-31
+url: "https://github.com/Digital-Production-Aachen/OVFStreaming"
