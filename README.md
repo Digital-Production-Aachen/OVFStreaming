@@ -21,15 +21,14 @@ Please cite the repositry as stated in the citation file.
 
 Bibtex:
 
-@software{Kolter_Streaming_Service_Definition_2023,
-author = {Kolter, Moritz and Dirks, Sebastian},
-doi = {10.18154/RWTH-2023-01469},
-month = {1},
-title = {{Streaming Service Definition for Open Vector Format Objects}},
-url = {https://github.com/Digital-Production-Aachen/OVFStreaming},
-version = {1.0},
-
-year = {2023}
+@software{Kolter_Streaming_Service_Definition_2023,  
+author = {Kolter, Moritz and Dirks, Sebastian},  
+doi = {10.18154/RWTH-2023-01469},  
+month = {1},  
+title = {{Streaming Service Definition for Open Vector Format Objects}},  
+url = {https://github.com/Digital-Production-Aachen/OVFStreaming},  
+version = {1.0},  
+year = {2023}  
 }
 
 
