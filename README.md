@@ -28,6 +28,7 @@ month = {1},
 title = {{Streaming Service Definition for Open Vector Format Objects}},
 url = {https://github.com/Digital-Production-Aachen/OVFStreaming},
 version = {1.0},
+
 year = {2023}
 }
 
